@@ -1,0 +1,1 @@
+/Users/drew/GitHub/fullstack-team-five/full_stack/target/xtensa-esp32s3-none-elf/release/full_stack: /Users/drew/GitHub/fullstack-team-five/full_stack/build.rs /Users/drew/GitHub/fullstack-team-five/full_stack/src/main.rs

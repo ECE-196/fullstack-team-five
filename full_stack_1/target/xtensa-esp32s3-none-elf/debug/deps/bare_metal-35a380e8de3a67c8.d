@@ -1,0 +1,7 @@
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/libbare_metal-35a380e8de3a67c8.rmeta: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bare-metal-1.0.0/src/lib.rs
+
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/libbare_metal-35a380e8de3a67c8.rlib: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bare-metal-1.0.0/src/lib.rs
+
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/bare_metal-35a380e8de3a67c8.d: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bare-metal-1.0.0/src/lib.rs
+
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bare-metal-1.0.0/src/lib.rs:

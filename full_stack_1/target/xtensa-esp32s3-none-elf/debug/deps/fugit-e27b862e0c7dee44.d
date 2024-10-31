@@ -1,0 +1,12 @@
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/libfugit-e27b862e0c7dee44.rmeta: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/aliases.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/duration.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/helpers.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/instant.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/rate.rs
+
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/libfugit-e27b862e0c7dee44.rlib: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/aliases.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/duration.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/helpers.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/instant.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/rate.rs
+
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/fugit-e27b862e0c7dee44.d: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/aliases.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/duration.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/helpers.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/instant.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/rate.rs
+
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/lib.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/aliases.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/duration.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/helpers.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/instant.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fugit-0.3.7/src/rate.rs:

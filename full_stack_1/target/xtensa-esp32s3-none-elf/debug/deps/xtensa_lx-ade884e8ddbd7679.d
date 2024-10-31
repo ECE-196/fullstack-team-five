@@ -1,0 +1,11 @@
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/libxtensa_lx-ade884e8ddbd7679.rmeta: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs
+
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/libxtensa_lx-ade884e8ddbd7679.rlib: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs
+
+/Users/drew/GitHub/fullstack-team-five/full_stack_1/target/xtensa-esp32s3-none-elf/debug/deps/xtensa_lx-ade884e8ddbd7679.d: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs
+
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/lib.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/interrupt.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/mutex.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/timer.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-0.9.0/src/macros.rs:

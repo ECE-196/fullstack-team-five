@@ -1,0 +1,11 @@
+/Users/drew/GitHub/fullstack-team-five/full_stack/target/xtensa-esp32s3-none-elf/release/deps/libembassy_time-a272881c4aed083d.rmeta: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/fmt.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/delay.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/duration.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/instant.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/timer.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/../README.md
+
+/Users/drew/GitHub/fullstack-team-five/full_stack/target/xtensa-esp32s3-none-elf/release/deps/embassy_time-a272881c4aed083d.d: /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/lib.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/fmt.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/delay.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/duration.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/instant.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/timer.rs /Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/../README.md
+
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/lib.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/fmt.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/delay.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/duration.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/instant.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/timer.rs:
+/Users/drew/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-time-0.3.2/src/../README.md:
